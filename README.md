@@ -9,6 +9,8 @@ Please Run With Caution! This is still in BETA so things might not work as expec
 
 ------- FOR EXPO USERS -------
 <pre>npx expo start<pre>
+
+- - - - - - - - - - - - - - -
 Make sure you have expo installed : https://expo.dev/client
 App works for both Android & iOS. Do mind iOS Has not been tested and requires a iPhone & iMac to complete a test.
 
